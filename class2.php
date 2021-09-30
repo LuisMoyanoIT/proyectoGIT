@@ -74,7 +74,7 @@ include("modelos/empleadosBackend.php");
                         <th>N°</th>
                         <th>Codigo</th>
                         <th>Nombre</th>
-                        <th>Lugar de nacimiento</th>
+                        <th>Lugar de nacimientolksdflksdf</th>
                         <th>Fecha de nacimiento</th>
                         <th>Telefono</th>
                         <th>Cargo</th>
@@ -127,7 +127,7 @@ include("modelos/empleadosBackend.php");
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="staticBackdropLabel">Crear empleado</h5>
+          <h5 class="modal-title" id="staticBackdropLabel">Crear emsdfsdfsdfpleado</h5>
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
