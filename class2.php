@@ -9,7 +9,7 @@ include("modelos/empleadosBackend.php");
 <html>
 <head>
     <!--TITTLE ES LA PROPIEDAD QUE NOS SIRVE PARA DARLE UN TITULO QUE SE VEA EN EL NAVEGADOR-->
-<title>Datos de los empleados</title>
+<title>HOLA COMPAÑERO dsdfsd´p+sdf,l{sdfl</title>
 <!--A TRAVES DE LA ETIQUETA STYLE SE PUEDE AÑADIR DISEÑO A LAS CLASES-->
 <style>
     .content {
@@ -43,7 +43,7 @@ include("modelos/empleadosBackend.php");
     <div class="container">
         <div class="content">
             <!--A TRAVES DE LA PROPIEDAD TEXT-ALIGN SE PUEDE DARLE UNA POSICION A CONVENIENCIA A NUESTRO TEXTO-->
-            <h1 style="text-align: center;">Lista de empleados</h1>
+            <h1 style="text-align: center;">Listdflgkndfgjajggs</h1>
             <hr>
             <div class="row">
                 <div class="col-4">
