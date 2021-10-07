@@ -43,7 +43,7 @@ include("modelos/empleadosBackend.php");
     <div class="container">
         <div class="content">
             <!--A TRAVES DE LA PROPIEDAD TEXT-ALIGN SE PUEDE DARLE UNA POSICION A CONVENIENCIA A NUESTRO TEXTO-->
-            <h1 style="text-align: center;">Listdflgkndfgjajggs</h1>
+            <h1 style="text-align: center;">Rama de Luis Moyano</h1>
             <hr>
             <div class="row">
                 <div class="col-4">
