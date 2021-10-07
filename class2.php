@@ -66,6 +66,7 @@ include("modelos/empleadosBackend.php");
 
 
             <div>
+            <h1 style="text-align: center;">AQui insertare una imagen mas tarde</h1>
                 <!--TABLE SIRVE PARA HACER UNA TABLA-->
                 <table class="table table-striped">
                     <thead class="table-dark">
